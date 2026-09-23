@@ -8,7 +8,7 @@
 
 ## Архитектура
 
-![Схема workflow в n8n](./workflow-screenshot.png)
+![Схема workflow в n8n](./n8n_workflow.PNG)
 
 ```
 Trigger (Schedule / Manual)
